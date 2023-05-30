@@ -51,7 +51,11 @@ $ ./ns3 build
 ```
 # That’s it! Enjoy your ns-3 fresh compilation with OpenFlow 1.3 capabilities.
 
-### after building up the ofswitch13 module you can clone the myofswitch13-first.cc file into scratch file in the ns3 directoriy and run it 
+### after building up the ofswitch13 module you can clone the myofswitch13-first.cc file into scratch file in the ns3 directoriy and  simply run it with:
+``` 
+./ns3 run scratch/myofswitch13-first.cc
+
+```
 
 ### this is the error i that i want to fix :
 
