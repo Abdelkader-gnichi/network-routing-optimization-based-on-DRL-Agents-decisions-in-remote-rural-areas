@@ -1,0 +1,2893 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0082
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.00838
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.00905
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 4
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01764
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01881
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 2
+Switch 5 is Configured with Pout= 4
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01922
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 5
+AgendId: 1 Executed Action: 2
+Switch 5 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.01998
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02039
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 3
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02065
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 3
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02156
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 2
+  Rx Packets: 1
+  TxOffered:  668.175 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.02223
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 2
+  Rx Packets: 1
+  TxOffered:  668.175 Kbps
+  Throughput: 334.087 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 4
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.027
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 2
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02817
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02884
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 7
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0082
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.00838
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.00955
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01764
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01881
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 3
+Switch 5 is Configured with Pout= 3
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.01972
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 4
+Switch 3 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02089
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 7
+AgendId: 1 Executed Action: 4
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.02898
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 4
+AgendId: 1 Executed Action: 3
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1311.38 Kbps
+  Throughput: 327.844 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.03403
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1311.38 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.0352
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1311.38 Kbps
+  Throughput: 327.844 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.036
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1311.38 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 2
+Switch 3 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.03637
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1311.38 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 2
+Switch 6 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.03667
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1311.38 Kbps
+  Throughput: 327.844 Kbps
+Input Port 2
+Current SwitchId= 6
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0092
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.00938
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01055
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01172
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 3
+Switch 5 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01764
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01881
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.01998
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02065
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 4
+By defualt is Configured to take Pout= 1
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.02189
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 2
+  Rx Packets: 1
+  TxOffered:  668.175 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 4
+AgendId: 1 Executed Action: 2
+Switch 4 is Configured with Pout= 2
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02256
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 2
+  Rx Packets: 1
+  TxOffered:  668.175 Kbps
+  Throughput: 334.087 Kbps
+Input Port 2
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02373
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 2
+  Rx Packets: 1
+  TxOffered:  668.175 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.02533
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 2
+Switch 4 is Configured with Pout= 2
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1336.35 Kbps
+  Throughput: 334.087 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.0339
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1336.35 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 2
+Switch 3 is Configured with Pout= 2
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.03403
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1336.35 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 2
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0092
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.00938
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.01005
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 3
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01764
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01881
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 2
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.01998
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.02022
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 5
+AgendId: 1 Executed Action: 2
+Switch 5 is Configured with Pout= 2
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02065
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 3
+By defualt is Configured to take Pout= 1
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02139
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 2
+  Rx Packets: 1
+  TxOffered:  668.175 Kbps
+  Throughput: 334.087 Kbps
+Input Port 2
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.027
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02817
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 4
+Switch 6 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02884
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  4 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1002.26 Kbps
+  Throughput: 334.087 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 2
+By defualt is Configured to take Pout= 1
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.03156
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  8 ms
+  Tx Packets: 3
+  Rx Packets: 2
+  TxOffered:  607.898 Kbps
+  Throughput: 405.266 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 4
+Switch 3 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.03273
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  8 ms
+  Tx Packets: 3
+  Rx Packets: 2
+  TxOffered:  607.898 Kbps
+  Throughput: 405.266 Kbps
+Input Port 2
+Current SwitchId= 7
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0152
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01538
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.01605
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 3
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01764
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.02622
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02739
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.02781
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 4
+Switch 3 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02806
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 3
+By defualt is Configured to take Pout= 1
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02898
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  20 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  631.63 Kbps
+  Throughput: 210.543 Kbps
+Input Port 2
+Current SwitchId= 7
+AgendId: 1 Executed Action: 2
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  32 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  805.166 Kbps
+  Throughput: 402.583 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.03403
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  32 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  805.166 Kbps
+  Throughput: 402.583 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.0352
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  32 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  805.166 Kbps
+  Throughput: 402.583 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.03637
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  32 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  805.166 Kbps
+  Throughput: 402.583 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 4
+Switch 6 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.03703
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  32 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  805.166 Kbps
+  Throughput: 402.583 Kbps
+Input Port 3
+Current SwitchId= 7
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0172
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01738
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01747
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.01805
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 2
+Switch 4 is Configured with Pout= 2
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01864
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.027
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 3
+Switch 5 is Configured with Pout= 3
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.02881
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 2
+Switch 3 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02948
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 6
+AgendId: 1 Executed Action: 4
+Switch 6 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.03015
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 4
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  762.587 Kbps
+  Throughput: 190.647 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.03353
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  762.587 Kbps
+  Throughput: 190.647 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 3
+Switch 4 is Configured with Pout= 3
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.03717
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  762.587 Kbps
+  Throughput: 190.647 Kbps
+Input Port 3
+Current SwitchId= 4
+AgendId: 1 Executed Action: 4
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.04105
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 5
+  Rx Packets: 1
+  TxOffered:  953.233 Kbps
+  Throughput: 190.647 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.04172
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 5
+  Rx Packets: 1
+  TxOffered:  953.233 Kbps
+  Throughput: 190.647 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 2
+Switch 4 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.04769
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 5
+  Rx Packets: 1
+  TxOffered:  953.233 Kbps
+  Throughput: 190.647 Kbps
+Input Port 3
+Current SwitchId= 5
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0172
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01738
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01747
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01855
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01972
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.0198
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02089
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 4
+Switch 6 is Configured with Pout= 4
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.02097
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 3
+Switch 5 is Configured with Pout= 3
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02156
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 4
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  934.908 Kbps
+  Throughput: 311.636 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  934.908 Kbps
+  Throughput: 311.636 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.027
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  934.908 Kbps
+  Throughput: 311.636 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 3
+Switch 5 is Configured with Pout= 3
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.03114
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  934.908 Kbps
+  Throughput: 311.636 Kbps
+Input Port 3
+Current SwitchId= 4
+AgendId: 1 Executed Action: 3
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1246.54 Kbps
+  Throughput: 311.636 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.03403
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1246.54 Kbps
+  Throughput: 311.636 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.0352
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  1246.54 Kbps
+  Throughput: 311.636 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 3
+Switch 5 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.04105
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  13 ms
+  Tx Packets: 5
+  Rx Packets: 1
+  TxOffered:  1558.18 Kbps
+  Throughput: 311.636 Kbps
+Current SwitchId= 1
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0162
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01638
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.01705
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 2
+Switch 4 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.01778
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 3
+Switch 4 is Configured with Pout= 3
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.02795
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 5
+AgendId: 1 Executed Action: 3
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02912
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 2
+Switch 6 is Configured with Pout= 2
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.02979
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 3
+AgendId: 1 Executed Action: 4
+Switch 3 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.03096
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 3
+  Rx Packets: 0
+  TxOffered:  -12.5534 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 7
+AgendId: 1 Executed Action: 4
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  735.842 Kbps
+  Throughput: 183.96 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.03403
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  735.842 Kbps
+  Throughput: 183.96 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.0352
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  735.842 Kbps
+  Throughput: 183.96 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.036
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  735.842 Kbps
+  Throughput: 183.96 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 2
+Switch 3 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.03637
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  735.842 Kbps
+  Throughput: 183.96 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 2
+Switch 6 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.03667
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 1
+  TxOffered:  735.842 Kbps
+  Throughput: 183.96 Kbps
+Input Port 2
+Current SwitchId= 6
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0142
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01438
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 3
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.01555
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.01672
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.01714
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 3
+Switch 4 is Configured with Pout= 3
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.01789
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.01856
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 2
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  10 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1201.08 Kbps
+  Throughput: 400.358 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  10 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1201.08 Kbps
+  Throughput: 400.358 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 3
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.027
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  10 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1201.08 Kbps
+  Throughput: 400.358 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.02731
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  10 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1201.08 Kbps
+  Throughput: 400.358 Kbps
+Input Port 3
+Current SwitchId= 5
+AgendId: 1 Executed Action: 2
+Switch 5 is Configured with Pout= 2
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02817
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  10 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1201.08 Kbps
+  Throughput: 400.358 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02848
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  10 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1201.08 Kbps
+  Throughput: 400.358 Kbps
+Input Port 2
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02884
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  10 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  1201.08 Kbps
+  Throughput: 400.358 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 3
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  810.531 Kbps
+  Throughput: 405.266 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.03353
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  14 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  810.531 Kbps
+  Throughput: 405.266 Kbps
+Input Port 2
+Current SwitchId= 4
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 64 	 simTime: 1.0082
+Source IP: 102.102.102.102
+Destination IP: 102.102.102.102
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.00838
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.00955
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 1
+  Rx Packets: 0
+  TxOffered:  -4.18447 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.01647
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 2
+/NodeList/10/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 4
+txPacket: 558 	 simTime: 1.01714
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 4
+AgendId: 1 Executed Action: 2
+Switch 4 is Configured with Pout= 2
+/NodeList/9/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 3
+txPacket: 558 	 simTime: 1.01972
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 3
+Current SwitchId= 3
+AgendId: 1 Executed Action: 3
+Switch 3 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02089
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  0 ms
+  Tx Packets: 2
+  Rx Packets: 0
+  TxOffered:  -8.36894 Kbps
+  Throughput: -0 Kbps
+Input Port 2
+Current SwitchId= 7
+AgendId: 1 Executed Action: 2
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.02467
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Current SwitchId= 1
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=251409883"
+Started ns3 simulation script, Process Id:  7761
+Observation space:  Box([0 0 0 0 0], [100 100 100 100 100], (5,), uint64) uint64
+Action space:  Discrete(3) 3
+reset State: [15  1  3  0]
+xxxx 5
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 6
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  2  3  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=2994981594"
+Started ns3 simulation script, Process Id:  7773
+reset State: [15  1  3  0]
+xxxx 5
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 7
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 8
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 8
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  5  3  0]
+Reward:  0.0
+xxxx 8
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  6  2  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=2154676108"
+Started ns3 simulation script, Process Id:  7785
+reset State: [15  1  3  0]
+xxxx 5
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 5
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 6
+New State: [15  4  3  1]
+Reward:  1.0
+xxxx 6
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 7
+New State: [15  4  2  0]
+Reward:  0.0
+xxxx 8
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 8
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  2  4  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=4134273064"
+Started ns3 simulation script, Process Id:  7797
+reset State: [15  1  3  0]
+xxxx 5
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  1]
+Reward:  1.0
+xxxx 7
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 7
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 7
+New State: [15  3  4  1]
+Reward:  1.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=4013965527"
+Started ns3 simulation script, Process Id:  7809
+reset State: [15  1  3  0]
+xxxx 5
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 7
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  1]
+Reward:  1.0
+xxxx 8
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 8
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  7  1  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=936524996"
+Started ns3 simulation script, Process Id:  7823
+reset State: [15  1  3  0]
+xxxx 6
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 7
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 8
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 8
+New State: [15  4  2  0]
+Reward:  0.0
+xxxx 8
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 9
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 9
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 9
+New State: [15  5  3  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=1245116117"
+Started ns3 simulation script, Process Id:  7835
+reset State: [15  1  3  0]
+xxxx 6
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 7
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  3  0]
+Reward:  0.0
+xxxx 7
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 8
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 8
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 8
+New State: [15  5  3  0]
+Reward:  0.0
+xxxx 9
+New State: [15  1  3  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=826643235"
+Started ns3 simulation script, Process Id:  7847
+reset State: [15  1  3  0]
+xxxx 6
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  4  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 8
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 8
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 8
+New State: [15  6  2  0]
+Reward:  0.0
+xxxx 8
+New State: [15  6  2  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=1042866588"
+Started ns3 simulation script, Process Id:  7860
+reset State: [15  1  3  0]
+xxxx 5
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  2  1]
+Reward:  1.0
+xxxx 7
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 8
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 8
+New State: [15  4  3  0]
+Reward:  0.0
+Start command:  /home/gadour/source/ns-3.37/ns3 run "qos --openGymPort=5555 --simSeed=2218963359"
+Started ns3 simulation script, Process Id:  7873
+reset State: [15  1  3  0]
+xxxx 5
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 6
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  4  3  0]
+Reward:  0.0
+xxxx 6
+New State: [15  3  4  0]
+Reward:  0.0
+xxxx 6
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 7
+New State: [15  1  2  1]
+Reward:  1.0
+AgendId: 1 Executed Action: 2
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.02583
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.027
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Input Port 2
+Current SwitchId= 5
+AgendId: 1 Executed Action: 4
+Switch 5 is Configured with Pout= 4
+/NodeList/12/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 6
+txPacket: 558 	 simTime: 1.02817
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 6
+AgendId: 1 Executed Action: 3
+Switch 6 is Configured with Pout= 4
+/NodeList/13/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 7
+txPacket: 558 	 simTime: 1.02884
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  12 ms
+  Tx Packets: 3
+  Rx Packets: 1
+  TxOffered:  983.533 Kbps
+  Throughput: 327.844 Kbps
+Input Port 3
+Current SwitchId= 7
+AgendId: 1 Executed Action: 3
+By defualt is Configured to take Pout= 1
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.03286
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  17 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  810.531 Kbps
+  Throughput: 405.266 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.03403
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  17 ms
+  Tx Packets: 4
+  Rx Packets: 2
+  TxOffered:  810.531 Kbps
+  Throughput: 405.266 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 4
+Switch 2 is Configured with Pout= 4
+/NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 1
+txPacket: 558 	 simTime: 1.04105
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  17 ms
+  Tx Packets: 5
+  Rx Packets: 2
+  TxOffered:  1013.16 Kbps
+  Throughput: 405.266 Kbps
+Current SwitchId= 1
+AgendId: 1 Executed Action: 4
+Switch 1 is Configured with Pout= 3
+/NodeList/8/$ns3::Node/$ns3::OFSwitch13Device/PortList/2/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 2
+txPacket: 558 	 simTime: 1.04222
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  17 ms
+  Tx Packets: 5
+  Rx Packets: 2
+  TxOffered:  1013.16 Kbps
+  Throughput: 405.266 Kbps
+Input Port 3
+Current SwitchId= 2
+AgendId: 1 Executed Action: 2
+Switch 2 is Configured with Pout= 2
+/NodeList/11/$ns3::Node/$ns3::OFSwitch13Device/PortList/1/$ns3::OFSwitch13Port/SwitchPortRx
+SwitchId 5
+txPacket: 558 	 simTime: 1.04339
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.7
+FlowId= 1 (192.168.1.1 -> 192.168.1.7)
+  delaySum:  17 ms
+  Tx Packets: 5
+  Rx Packets: 2
+  TxOffered:  1013.16 Kbps
+  Throughput: 405.266 Kbps
+Input Port 2
+Current SwitchId= 5
+xxxx 7
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  5  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  6  4  0]
+Reward:  0.0
+xxxx 7
+New State: [15  7  1  0]
+Reward:  0.0
+xxxx 8
+New State: [15  1  3  1]
+Reward:  1.0
+xxxx 8
+New State: [15  2  2  0]
+Reward:  0.0
+xxxx 9
+New State: [15  1  3  0]
+Reward:  0.0
+xxxx 9
+New State: [15  2  4  0]
+Reward:  0.0
+xxxx 9
+New State: [15  5  4  0]
+Reward:  0.0
+Finished.
+Plot Learning Performance
