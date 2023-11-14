@@ -1,4 +1,4 @@
-[0/2] Re-checking globbed directories...
+[0/2] Re-checking globbed directories... gadour
 ninja: no work to do.
 /NodeList/7/$ns3::Node/$ns3::OFSwitch13Device/PortList/0/$ns3::OFSwitch13Port/SwitchPortRx
 SwitchId 1
