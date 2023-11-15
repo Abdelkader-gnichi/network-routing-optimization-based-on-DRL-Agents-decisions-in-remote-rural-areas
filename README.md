@@ -70,6 +70,37 @@ build_lib_example(
     
 )
 ```
+## Usage
+
+**1. Run the Simulation:**
+
+* Change your current working directory from `ns-3.X` to `/contrib/opengym/examples/opengym/` using this command:
+  ```shell
+  cd ./contrib/opengym/examples/opengym/
+  ```
+
+* Execute the simulation script with the desired parameters. Below is an example command:
+
+```shell
+./agent_1.py --start 1 --total_episodes 100 --total_steps 300 --agent_name "Dueling DDQN"
+```
+* --start: Set to 1 to start the ns-3 simulation script (default is 1).
+* --total_episodes: Specify the total number of episodes (default is 100).
+* --total_steps: Set the total number of steps in each episode (default is 300).
+* --agent_name: Choose the DRL agent for simulation (options: "Dueling DDQN", "Dueling DDQN-MLPS", "DDQN"), (default is Dueling DDQN).
+* Adjust the parameters as needed for your specific simulation requirements.
+  
+* (Optional) Start ns-3 simulation script and Gym agent separately in two terminals (useful for debugging):
+```shell
+# Terminal 1
+./ns3 run "network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas"
+
+# Terminal 2
+cd ./contrib/opengym/examples/opengym/ 
+./agent_1.py --start=0
+```
+
+
 
 
 
