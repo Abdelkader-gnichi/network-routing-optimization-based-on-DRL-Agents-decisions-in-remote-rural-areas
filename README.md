@@ -37,6 +37,40 @@ Before you begin, make sure you have the following prerequisites:
 - **OpenAI Gym:** is a Pythonic API that provides simulated training environments(ns-3 in this case) to train and test deep reinforcement learning agents, you can get it from this [link](https://github.com/openai/gym).
 - **PFRL:** is a PyTorch-based library within the OpenAI Gym setup that implements several Deep Reinforcement Learning algorithms such as (DQN, DDQN, IQN, Rainbow, etc), we will use this library to develop our Dueling DDQN agent and its components, Also you can get it from its offcial GitHub [repo](https://github.com/pfnet/pfrl).
 
+## Installation
+
+After successfully installing ns-3 and configuring it, including the installation of all other prerequisites, follow these steps:
+
+1. Clone this repository into the `ns-3.X/contrib/opengym/examples` directory of your ns-3 installation folder. If you're using ns-3.37, the path will be `ns-3.37/contrib/opengym/examples`.
+
+```shell
+git clone https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas.git
+```
+
+2. Make sure to configuer the build and compile process of cloned project in the `CMakeLists.txt` file to let the ns-3 build and complile our project properly with all the other ns-3 external library.
+
+```cmake
+build_lib_example(
+  NAME network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas
+  SOURCE_FILES qos/sim.cc
+               qos/qos-controller.cc
+               qos/mygym.cc
+  LIBRARIES_TO_LINK
+    ${libcore}
+    ${libapplications}
+    ${libinternet-apps}
+    ${libinternet}
+    ${libopengym}
+    ${libnetanim}
+    ${libflow-monitor}
+    ${libofswitch13}
+    ${libnetwork}
+    
+)
+```
+
+
+
 
 
 
