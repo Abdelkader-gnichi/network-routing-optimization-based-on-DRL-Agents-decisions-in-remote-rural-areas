@@ -32,6 +32,8 @@ This project represents a forward-looking approach to addressing connectivity is
 Before you begin, make sure you have the following prerequisites:
 
 - **ns-3:** This is a discrete-event network simulator for Internet systems. We will use ns-3 to simulate the backhaul network, representing the environment in which our Dueling DDQN agent interacts to make decisions ensuring packet routing to their destinations. ns-3 is free and open-source software. You can obtain it from the official website [here](https://www.nsnam.org/) or directly from its GitHub [repository](https://github.com/nsnam/ns-3-dev-git).
+- **NetAnim:** NetAnim is an offline animator based on the Qt toolkit. It animates a previously executed ns-3 simulation using an XML trace file generated during a simulation, we use NetAnim to generate a graphical representation for our simulation to show the packets routing based on the DRL agent decicions, Also you can git it from the official ns-3 website [link](https://www.nsnam.org/wiki/NetAnim).
+
 - **ofswitch13:** This is the OFSwitch13 module, which enhances the ns-3 Network Simulator with [OpenFlow 1.3](https://opennetworking.org/wp-content/uploads/2014/10/openflow-spec-v1.3.0.pdf) capabilities, allowing ns-3 users to simulate Software-Defined Networks (SDN), Also you can get it from its GitHub [repository](https://github.com/ljerezchaves/ofswitch13).
 - **NS3-Gym:** is a middleware play the role of a bridge between ns-3 and OpenAI Gym framework. It notably takes care of transferring data between the our Dueling DDQN agent and the simulation environment, you can get it from it offcial GitHub [repo](https://github.com/tkn-tub/ns3-gym).
 - **OpenAI Gym:** is a Pythonic API that provides simulated training environments(ns-3 in this case) to train and test deep reinforcement learning agents, you can get it from this [link](https://github.com/openai/gym).
@@ -47,7 +49,7 @@ After successfully installing ns-3 and configuring it, including the installatio
 git clone https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas.git
 ```
 
-2. Make sure to configuer the build and compile process of cloned project in the `CMakeLists.txt` file to let the ns-3 build and complile our project properly with all the other ns-3 external library.
+2. Make sure to configure the build and compile process of the project in the `CMakeLists.txt` file located in the `ns-3.X/contrib/opengym/examples` directory to enable ns-3 to build and compile our project properly with all the other ns-3 external libraries.
 
 ```cmake
 build_lib_example(
