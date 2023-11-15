@@ -84,21 +84,46 @@ build_lib_example(
 ```shell
 ./agent_1.py --start 1 --total_episodes 100 --total_steps 300 --agent_name "Dueling DDQN"
 ```
-* --start: Set to 1 to start the ns-3 simulation script (default is 1).
-* --total_episodes: Specify the total number of episodes (default is 100).
-* --total_steps: Set the total number of steps in each episode (default is 300).
-* --agent_name: Choose the DRL agent for simulation (options: "Dueling DDQN", "Dueling DDQN-MLPS", "DDQN"), (default is Dueling DDQN).
-* Adjust the parameters as needed for your specific simulation requirements.
+- Avalable parameters:
+   - `--start`: Set to 1 to start the ns-3 simulation script (default is 1).
+   - `--total_episodes`: Specify the total number of episodes (default is 100).
+   - `--total_steps`: Set the total number of steps in each episode (default is 300).
+   - `--agent_name`: Choose the DRL agent for simulation (options: "Dueling DDQN", "Dueling DDQN-MLPS", "DDQN"), 
+     (default is Dueling DDQN).
+  
+   - Adjust the parameters as needed for your specific simulation requirements.
   
 * (Optional) Start ns-3 simulation script and Gym agent separately in two terminals (useful for debugging):
 ```shell
+
 # Terminal 1
 ./ns3 run "network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas"
 
 # Terminal 2
 cd ./contrib/opengym/examples/opengym/ 
-./agent_1.py --start=0
+./agent_1.py --start 0 --total_episodes 100 --total_steps 300 --agent_name "Dueling DDQN"
+
 ```
+* (Optional) You can print the output results in a `output.txt` file using this command:
+
+  ```shell
+  
+  ./agent_1.py --start 1 --total_episodes 100 --total_steps 300 --agent_name "Dueling DDQN" > output.txt           
+  
+  ```
+* Or simply you can run the script without specifying anything using this command:
+  
+```shell
+./agent_1.py
+```
+* Finaly if the script wont' to be executed you may should grant it the execute permition using this command:
+    
+```shell 
+sudo chmod a+x ./agent_1.py
+```
+
+  
+  
 
 
 
