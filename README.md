@@ -116,7 +116,7 @@ cd ./contrib/opengym/examples/opengym/
 ```shell
 ./agent_1.py
 ```
-* Finaly if the script wont' to be executed you may should grant it the execute permition using this command:
+* Finally, if the script won't execute, you may need to grant it execute permission using this command:
     
 ```shell 
 sudo chmod a+x ./agent_1.py
