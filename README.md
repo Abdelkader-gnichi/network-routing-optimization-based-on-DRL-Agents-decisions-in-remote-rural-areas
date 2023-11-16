@@ -139,5 +139,32 @@ sudo chmod a+x ./agent_1.py
 
 ![dueling-struct drawio](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/806f6d9f-087b-47cd-8b07-968b35cb3b0a)
 
+## Case Study Network topology:
+
+- As shown in the figure below, there are six communities, each with its own Base Station. Each Base Station is fully connected to all its neighboring Base Stations, forming a partial mesh that interconnects all the communities. Returning to the communities, each community attempts to send packets or reach the Central Base Station, representing the gateway to the global Internet network.
+
+
+![Screenshot from 2023-05-30 19-44-13](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/56266147-7adb-43a4-9f41-dbac1e6d50f2)
+
+- To test our self-management architecture, we have considered the following scenario.
+- The chosen scenario as shown in the Fig above draws inspiration from prior work on connectivity in rural Amazon regions.
+- The scenario is characterized by a multi-hop topology for the backhaul network.
+- This topology has been successful in reaching remote communities in a cost-effective manner with limited infrastructure investment.
+  
+## Dueling DDQN Agent interactions with the Network Topology (environment)
+
+![Dueling-DDQN-sequence-diag-colorful](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/2cc830da-713a-4737-a1c2-f1b3045f10b5)
+
+- As shown in the sequence diagram, the agent bases its decisions on information (observations) gathered by the SDN-C (Controller) from the switches. Once the Dueling DDQN determines the appropriate output port for the flow and switch, it communicates this decision to the SDN-C. The SDN-C then implements the decision into the correct switch, directing the packet to the appropriate port.
+- The Dueling DDQN agent receives new observations along with the associated reward. This information is utilized by the agent to update its neural networks, aiding in the training process to reach the optimal policy.
+
+## Training Results
+
+![image](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/156ddce2-79f1-483c-8337-ee8e419d8684)
+
+
+
+
+
 
 
