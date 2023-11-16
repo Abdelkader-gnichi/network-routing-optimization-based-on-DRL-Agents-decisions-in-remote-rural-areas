@@ -162,15 +162,53 @@ sudo chmod a+x ./agent_1.py
 
 - For the simulation we prepare two scenarios:
   - In the first scenario, we attempt to send traffic, referred to as Flow 1, from the farthest and most challenging community, Community C, to the Central Base Station.
-  - In the second scenario, we aim to send traffic, labeled as Flow 2, from a community that is neither too close nor too far. This scenario poses a significant challenge for the agent, as it may make suboptimal decisions and get stuck in loops before finding the optimal route to the Central Base Station. Consequently, the average delay value may increase compared to the optimal value.
+  - In the second scenario, we aim to send traffic, labeled as Flow 2, from a community that is neither too close nor too far, Community E. This scenario poses a significant challenge for the agent, as it may make suboptimal decisions and get stuck in loops before finding the optimal route to the Central Base Station. Consequently, the average delay value may increase compared to the optimal value.
 
 ### 1. DDQN Agent Results: 
-For comparison purposes, we initially deploy a DDQN agent to assess its performance in solving the routing optimization problem in the network topology. This evaluation will serve as a benchmark for comparing its performance with our **Dueling DDQN agent**, which is expected to exhibit significant improvements. Stay tuned for the results.
+For comparison purposes, we initially deploy a DDQN agent to assess its performance in solving the routing optimization problem in the network topology. This evaluation will serve as a benchmark for comparing its performance with our `Dueling DDQN agent`, which is expected to exhibit significant improvements. Stay tuned for the results.
 
-- **DDQN Agent Results for the Flow 1 from community C (1st scenario):**
+#### ⬦ DDQN Agent Results for the Flow 1 from community C (1st scenario):
 
 
 ![Research Proposal Business Presentation in Dark Green Orange Geometric Style (1)](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/9ba5055c-1572-438b-9c28-ec134d10df4a)
+
+- As illustrated in the Reward Sum Figure, the DDQN agent exhibits a struggle to converge to the optimal policy, requiring `30 episodes` to achieve convergence. Notably, a significant decrease in the agent's performance is observed in `episode 18`.
+
+- In the Average Delay Figure, it is evident that the DDQN agent initially struggles to keep the average delay values below the optimal levels in the early episodes. However, it eventually converges after `28 episodes`, leading to improved average delay results.
+
+#### ⬦ DDQN Agent Results for the Flow 2 from community E (2nd scenario):
+
+![Research Proposal Business Presentation in Dark Green Orange Geometric Style (2)](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/f2506713-915b-4342-a089-4412a148b9f4)
+
+- As depicted in the Reward Sum Figure, the DDQN agent converges with some hesitation in its decisions, requiring `14 episodes` to reach the optimal policy.
+- This poor performance has an impact on the average delay values, causing the DDQN agent to struggle in gradually controlling the delay values. It eventually converges to the optimal values after `13 episodes`.
+
+### 2. Dueling DDQN Agent Results: 
+
+In this section, we present the results for the Dueling DDQN agent, which we have chosen as the decision-making unit for this project. Our selection is based on a comparative study that assesses six widely recognized Deep Reinforcement Learning (DRL) agent variants, including Q-learning, DQN without Target Network, DQN with Target Network, Dueling DQN, DDQN, and finally, Dueling DDQN.
+
+Our preference for the Dueling DDQN variant is rooted in its outstanding performance, surpassing all other DRL variants in benchmark environments such as CartPole-v1 and LunarLander-v2. Additionally, we find the Dueling architecture particularly suitable for navigation problems and tasks, such as autonomous driving, maze solving, and drone control. Given that packet routing or routing optimization problems are inherently navigation problems, the Dueling DDQN emerges as the ideal candidate for this project. 
+
+#### ⬦ Dueling DDQN Agent Results for the Flow 1 from community C (1st scenario):
+
+![Research Proposal Business Presentation in Dark Green Orange Geometric Style](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/57601c54-95d9-411d-a326-61d595f4a111)
+
+- It is more evident in the Reward Sum Figure that the Dueling DDQN agent converges much faster than the DDQN agent, achieving convergence in just 17 episodes without any performance decrease. This efficiency instills confidence in its decision-making capabilities.
+
+- This strong performance is reflected in the Average Delay Figure, where the Dueling DDQN adeptly controls the average delay values from the early episodes, maintaining them at low levels. It then smoothly converges to the optimal values in just 11 episodes.
+
+#### ⬦ Dueling DDQN Agent Results for the Flow 2 from community E (2nd scenario): 
+
+![Research Proposal Business Presentation in Dark Green Orange Geometric Style (3)](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/b01bb797-f979-4866-bfa4-33e5d2345461)
+
+- As shown in the Reward Sum Figure, it is evident that the Dueling DDQN converges much faster and without hesitation compared to the DDQN agent, reaching the optimal policy in just 7 episodes.
+- This strong performance enables the Dueling DDQN agent to effortlessly control the average delay values below the optimal levels. As depicted in the Average Delay Figure, the agent converges in just 5 episodes without any spikes.
+
+
+
+  
+
+
 
 
 
