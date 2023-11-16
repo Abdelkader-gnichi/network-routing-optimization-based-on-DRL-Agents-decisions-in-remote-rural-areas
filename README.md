@@ -132,3 +132,11 @@ cd ./contrib/opengym/examples/opengym/
 ```shell
 sudo chmod a+x ./agent_1.py
 ```
+
+## Dueling DDQN Agent architecture
+
+
+
+
+
+
