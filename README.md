@@ -135,8 +135,9 @@ sudo chmod a+x ./agent_1.py
 
 ## Dueling DDQN Agent architecture
 
+- This Figure below shows our Dueling DDQN Agent architecture including the agent input and output:
 
-
+![dueling-struct drawio](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/806f6d9f-087b-47cd-8b07-968b35cb3b0a)
 
 
 
