@@ -160,7 +160,12 @@ sudo chmod a+x ./agent_1.py
 
 ## Training Results
 
-![image](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/156ddce2-79f1-483c-8337-ee8e419d8684)
+**1. DDQN Agent Results:** For Comparasion purposes we first deploy a DDQN agent to see its performance in solving the routing optimization problem in the network topology inorder to compare its performance with our Dueling DDQN agent performance which will give a significant performance compared to this DDQN agent so stay tuned.
+
+
+![Research Proposal Business Presentation in Dark Green Orange Geometric Style (1)](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/525626bd-86ab-42d1-8d06-cafc66c93680)
+
+
 
 
 
