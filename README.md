@@ -265,7 +265,7 @@ Our preference for the Dueling DDQN variant is rooted in its outstanding perform
 
 **Abdelkader Gnichi**
 
-- GitHub: [@Abdelkader-gnich](https://github.com/Abdelkader-gnichi)
+- GitHub: [@Abdelkader-gnichi](https://github.com/Abdelkader-gnichi)
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/abdelkader-gnichi-40064a251)
 - WhatsApp: [My WhatsApp Link](www.linkedin.com/in/abdelkader-gnichi-40064a251)
 
