@@ -11,6 +11,8 @@ This project aims to address connectivity challenges in remote/rural areas throu
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Training Results](#training-results)
+- [Performance Summary](#Performance_Summary)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -204,6 +206,19 @@ Our preference for the Dueling DDQN variant is rooted in its outstanding perform
 - As shown in the Reward Sum Figure, it is evident that the Dueling DDQN converges much faster and without hesitation compared to the DDQN agent, reaching the optimal policy in just 7 episodes.
 - This strong performance enables the Dueling DDQN agent to effortlessly control the average delay values below the optimal levels. As depicted in the Average Delay Figure, the agent converges in just 5 episodes without any spikes.
 
+  ## Performance Summary
+
+| DRL Variants | Flows in each Scenario | Reward Sum Convergence Episode | Average Delay Convergence Episode | Delay Value After Convergence |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Header |  fff | Title | |
+| Paragraph | Text |
+
+
+| DRL Variants | Flows in each Scenario | Reward Sum Convergence Episode | Average Delay Convergence Episode | Delay Value After Convergence |
+|:------------:|:-----------------------:|:-------------------------------:|:--------------------------------:|:----------------------------:|
+| Header       | fff                     | Title                           |                                  |                              |
+| Paragraph    | Text                    |                                 |                                  |                              |
+| RowSpan (2)  | This cell spans 2 rows. |    
 
 
   
