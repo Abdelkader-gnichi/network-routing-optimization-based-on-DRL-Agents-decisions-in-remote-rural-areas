@@ -211,7 +211,45 @@ Our preference for the Dueling DDQN variant is rooted in its outstanding perform
 
   ## Performance Summary
 
-![Screenshot from 2023-11-20 14-43-40](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/1da7cddf-1611-4570-8d68-988c9e93c7b6)
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"><strong> DRL Variants </strong></th>
+    <th class="tg-c3ow"><strong> Flows in each Scenario </strong></th>
+    <th class="tg-c3ow"><strong> Reward Sum Convergence Episode </strong></th>
+    <th class="tg-c3ow"><strong> Average Delay Convergence Episode </strong></th>
+    <th class="tg-c3ow"><strong> Delay After Convergence </strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" rowspan="2"><strong> DDQN </strong></td>
+    <td class="tg-c3ow">Flow 1</td>
+    <td class="tg-c3ow">30</td>
+    <td class="tg-c3ow">28</td>
+    <td class="tg-c3ow">5.5ms $\rightarrow$ 3ms</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Flow 2</td>
+    <td class="tg-c3ow">14</td>
+    <td class="tg-c3ow">13</td>
+    <td class="tg-c3ow">2.2ms $\rightarrow$ 1.2ms</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="2"> <strong> Dueling DDQN </strong></td>
+    <td class="tg-c3ow">Flow 1</td>
+    <td class="tg-c3ow">17</td>
+    <td class="tg-c3ow">11</td>
+    <td class="tg-c3ow">4.2ms $\rightarrow$ 1.2ms</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Flow 2</td>
+    <td class="tg-c3ow">7</td>
+    <td class="tg-c3ow">5</td>
+    <td class="tg-c3ow">2ms $\rightarrow$ 1.2ms</td>
+  </tr>
+</tbody>
+</table>
 
 - It is evident that our Dueling DDQN agent outperforms the DDQN agent with a significant difference in terms of convergence time and maintaining the average delay values below the optimal levels within a short timeframe. This indicates that the Dueling DDQN agent consistently identifies the best routes for packet forwarding efficiently. These results affirm that the Dueling DDQN agent is the most effective Deep Reinforcement Learning agent for addressing problems of this nature in our project.
 
@@ -220,6 +258,14 @@ Our preference for the Dueling DDQN variant is rooted in its outstanding perform
 
 
 [Screencast from 2023-11-20 15-23-32.webm](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/b2afd845-b5ad-42ee-b242-7e6c97948669)
+
+
+
+
+
+
+
+
 
 
 
