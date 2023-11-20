@@ -14,7 +14,7 @@ This project aims to address connectivity challenges in remote/rural areas throu
 - [Training Results](#training-results)
 - [Dueling DDQN Agent architecture](#dueling-ddqn-agent-architecture)
 - [Case Study Network topology](#case-study-network-topology)
-- [Dueling DDQN Agent interactions with the Network Topology](#dueling-ddqn-agent-interactions-with-the-network-topology-\(environment\))
+- [Dueling DDQN Agent interactions with the Network Topology (environment)](#dueling-ddqn-agent-interactions-with-the-network-topology-(environment))
 - [Performance Summary](#performance-summary) 
 - [](#)
 
