@@ -12,7 +12,7 @@ This project aims to address connectivity challenges in remote/rural areas throu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Training Results](#training-results)
-- [Performance Summary](#Performance_Summary)
+- [Performance Summary](#performance-Summary)
 - [Contributing](#contributing)
 - [License](#license)
 
