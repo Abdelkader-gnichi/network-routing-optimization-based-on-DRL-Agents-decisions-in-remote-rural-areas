@@ -136,6 +136,7 @@ cd ./contrib/opengym/examples/opengym/
 ```shell
 sudo chmod a+x ./agent_1.py
 ```
+While the script is running and the agent is learning, you can continue reading to learn more about our project components and architecture...
 
 ## Dueling DDQN Agent architecture
 
