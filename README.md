@@ -16,7 +16,7 @@ This project aims to address connectivity challenges in remote/rural areas throu
 - [Case Study Network topology](#case-study-network-topology)
 - [Dueling DDQN Agent interactions with the Network Topology](#dueling-ddqn-agent-interactions-with-the-network-topology)
 - [Performance Summary](#performance-summary) 
-- [Visualization of Packet Routing Results with NetAnim](#visualization-of-packet-routing-results-with-netanim.)
+- [Visualization of Packet Routing Results with NetAnim](#visualization-of-packet-routing-results-with-netanim)
 
 ## Introduction
 
