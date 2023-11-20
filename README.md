@@ -218,6 +218,7 @@ Our preference for the Dueling DDQN variant is rooted in its outstanding perform
 
 
 
+[Screencast from 2023-11-20 15-23-32.webm](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/b2afd845-b5ad-42ee-b242-7e6c97948669)
 
 
 
