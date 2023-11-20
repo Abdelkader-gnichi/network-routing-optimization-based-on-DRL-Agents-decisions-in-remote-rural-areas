@@ -16,7 +16,7 @@ This project aims to address connectivity challenges in remote/rural areas throu
 - [Case Study Network topology](#case-study-network-topology)
 - [Dueling DDQN Agent interactions with the Network Topology](#dueling-ddqn-agent-interactions-with-the-network-topology)
 - [Performance Summary](#performance-summary) 
-- [](#)
+- [Visualization of Packet Routing Results with NetAnim](#visualization-of-packet-routing-results-with-netanim.)
 
 ## Introduction
 
@@ -213,7 +213,10 @@ Our preference for the Dueling DDQN variant is rooted in its outstanding perform
 ![Screenshot from 2023-11-20 14-43-40](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/1da7cddf-1611-4570-8d68-988c9e93c7b6)
 
 - It is evident that our Dueling DDQN agent outperforms the DDQN agent with a significant difference in terms of convergence time and maintaining the average delay values below the optimal levels within a short timeframe. This indicates that the Dueling DDQN agent consistently identifies the best routes for packet forwarding efficiently. These results affirm that the Dueling DDQN agent is the most effective Deep Reinforcement Learning agent for addressing problems of this nature in our project.
-  
+
+  ## Visualization of Packet Routing Results with NetAnim
+
+
 
 
 
