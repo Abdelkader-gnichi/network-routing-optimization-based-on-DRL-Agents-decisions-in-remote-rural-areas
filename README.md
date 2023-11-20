@@ -12,9 +12,11 @@ This project aims to address connectivity challenges in remote/rural areas throu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Training Results](#training-results)
-- [Performance Summary](#performance-Summary)
-- [Contributing](#contributing)
-- [License](#license)
+- [Dueling DDQN Agent architecture](#dueling-ddqn-agent-architecture)
+- [Case Study Network topology](#case-study-network-topology)
+- [Dueling DDQN Agent interactions with the Network Topology](#dueling-ddqn-agent-interactions-with-the-network-topology-(environment))
+- [Performance Summary](#performance-summary) 
+- [](#)
 
 ## Introduction
 
@@ -141,7 +143,7 @@ sudo chmod a+x ./agent_1.py
 
 ![dueling-struct drawio](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/806f6d9f-087b-47cd-8b07-968b35cb3b0a)
 
-## Case Study Network topology:
+## Case Study Network topology
 
 - As shown in the figure below, there are six communities, each with its own Base Station. Each Base Station is fully connected to all its neighboring Base Stations, forming a partial mesh that interconnects all the communities. Returning to the communities, each community attempts to send packets or reach the Central Base Station, representing the gateway to the global Internet network.
 
@@ -208,19 +210,9 @@ Our preference for the Dueling DDQN variant is rooted in its outstanding perform
 
   ## Performance Summary
 
-| DRL Variants | Flows in each Scenario | Reward Sum Convergence Episode | Average Delay Convergence Episode | Delay Value After Convergence |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header |  fff | Title | |
-| Paragraph | Text |
+![Screenshot from 2023-11-20 14-43-40](https://github.com/Abdelkader-gnichi/network-routing-optimization-based-on-DRL-Agents-decisions-in-remote-rural-areas/assets/64486451/1da7cddf-1611-4570-8d68-988c9e93c7b6)
 
-
-| DRL Variants | Flows in each Scenario | Reward Sum Convergence Episode | Average Delay Convergence Episode | Delay Value After Convergence |
-|:------------:|:-----------------------:|:-------------------------------:|:--------------------------------:|:----------------------------:|
-| Header       | fff                     | Title                           |                                  |                              |
-| Paragraph    | Text                    |                                 |                                  |                              |
-| RowSpan (2)  | This cell spans 2 rows. |    
-
-
+- It is evident that our Dueling DDQN agent outperforms the DDQN agent with a significant difference in terms of convergence time and maintaining the average delay values below the optimal levels within a short timeframe. This indicates that the Dueling DDQN agent consistently identifies the best routes for packet forwarding efficiently. These results affirm that the Dueling DDQN agent is the most effective Deep Reinforcement Learning agent for addressing problems of this nature in our project.
   
 
 
